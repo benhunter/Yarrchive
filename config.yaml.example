@@ -1,0 +1,5 @@
+channel_ids:
+  - <id>
+  - <id>
+log_file: "urls.txt"
+log_format: "text"  # or "csv"
